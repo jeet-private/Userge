@@ -11,3 +11,4 @@
 . init/init.sh
 
 runUserge "$@"
+node app.js
